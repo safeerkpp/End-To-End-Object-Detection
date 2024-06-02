@@ -1,6 +1,13 @@
 # End-To-End-Object-Detection
 
+## work flow
 
+-constants
+-config_entity
+-artifact_entity
+-components
+-pipeline
+app.py
 
 ## How to run:
 
